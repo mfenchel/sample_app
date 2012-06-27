@@ -85,8 +85,8 @@ footer {
   a {
     color: $gray;
     &:hover { 
-      color: $grayDarker;
-    }
+			color: $grayDarker; 
+		}
   }  
   small { 
     float: left; 
